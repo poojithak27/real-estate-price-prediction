@@ -1,12 +1,3 @@
----
-title: "SLPROJECT"
-author: "Saketh, Sri ram, Poojitha, Naveena, Supraja"
-date: "2025-04-22"
-output:
-  word_document: default
-  pdf_document: default
----
-
 ## Project Overview
 
 We aim to build classification models to predict whether an individual's income exceeds $50K per year based on U.S. Census data (1994). The response variable is `income` (<=50K or >50K).
@@ -444,5 +435,6 @@ Meta-Model (Stacked XGB + RF) is the best overall because:
 It has the highest overall accuracy 
 
 It has balanced sensitivity compared to other high-accuracy models
+
 
 
